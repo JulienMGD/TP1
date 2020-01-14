@@ -1,4 +1,4 @@
-### application.bat - 2020 - Julien MAINGARD ###
+### application.bat - 2020 - Julien MAINGARD - PIERRE Samuel ###
 version = "2"
 build_hour = "11H00"
 
