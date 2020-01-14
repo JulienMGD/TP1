@@ -1,4 +1,4 @@
-### application.bat - 2020 - Julien MAINGARD - PIERRE Samuel ###
+### application.bat - 2020 - Julien MAINGARD | Alexis TALDIR | Samuel PIERRE ###
 version = "2"
 build_hour = "11H00"
 
